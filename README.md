@@ -24,6 +24,26 @@ The game follows a day-based system with weekly progression.
 
 After seven days, the player receives a weekly summary and continues into the next week.
 
+## Gameplay Preview
+
+### Start Simulation
+![Landing Page](screenshots/01-landing.png)
+
+### Character Creation
+![Character Setup](screenshots/02-character-setup.png)
+
+### Daily Simulation
+![Gameplay](screenshots/03-gameplay.png)
+
+### Shop & Inventory
+![Inventory](screenshots/04-inventory.png)
+
+### Weekly Progression
+![Week Summary](screenshots/05-week-summary.png)
+
+### Events & Player Choices
+![Promotion Opportunity](screenshots/06-promotion-event.png)
+
 ## Current Features
 
 ### Character & Player Stats
