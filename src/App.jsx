@@ -350,6 +350,7 @@ function App() {
       return
     }
 
+    setMessage(`You bought a ${item.name}.`)
     setMoney((currentMoney) => currentMoney - item.price)
 
     setInventory((currentInventory) => {
@@ -385,6 +386,7 @@ function App() {
     
 
   function useItem (item) {
+    setMessage(`You used a ${item.name}.`)
     setEnergy((currentEnergy) =>
     limitStat(currentEnergy + item.energyChange))
 

@@ -34,9 +34,9 @@ const pizza = {
     healthChange: -5
 }
 
-const vegetables = {
-    id: "vegetables",
-    name: "vegetables",
+const banana = {
+    id: "banana",
+    name: "banana",
     price: 10,
     happinessChange: 5,
     energyChange: 10,
@@ -48,7 +48,7 @@ const shopItems = [
     energyDrink,
     martini,
     pizza,
-    vegetables
+    banana
 ]
 
 export default shopItems
